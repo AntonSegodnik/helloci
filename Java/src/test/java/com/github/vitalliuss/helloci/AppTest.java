@@ -6,7 +6,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 /**
- * Unit test for simple App.123
+ * Unit test for simple App.1238
  * @author vitali_shulha
  */
 public class AppTest {
